@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/debounceandthrottling/static/css/main.653573b5.chunk.css",
+    "main.js": "/debounceandthrottling/static/js/main.02bd163b.chunk.js",
+    "main.js.map": "/debounceandthrottling/static/js/main.02bd163b.chunk.js.map",
+    "runtime-main.js": "/debounceandthrottling/static/js/runtime-main.004416f8.js",
+    "runtime-main.js.map": "/debounceandthrottling/static/js/runtime-main.004416f8.js.map",
+    "static/js/2.404c6370.chunk.js": "/debounceandthrottling/static/js/2.404c6370.chunk.js",
+    "static/js/2.404c6370.chunk.js.map": "/debounceandthrottling/static/js/2.404c6370.chunk.js.map",
+    "static/js/3.8860990e.chunk.js": "/debounceandthrottling/static/js/3.8860990e.chunk.js",
+    "static/js/3.8860990e.chunk.js.map": "/debounceandthrottling/static/js/3.8860990e.chunk.js.map",
+    "index.html": "/debounceandthrottling/index.html",
+    "static/css/main.653573b5.chunk.css.map": "/debounceandthrottling/static/css/main.653573b5.chunk.css.map",
+    "static/js/2.404c6370.chunk.js.LICENSE.txt": "/debounceandthrottling/static/js/2.404c6370.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.004416f8.js",
+    "static/js/2.404c6370.chunk.js",
+    "static/css/main.653573b5.chunk.css",
+    "static/js/main.02bd163b.chunk.js"
+  ]
+}
